@@ -1,6 +1,6 @@
-# Polyglot Java Development Starter (Containers)
+# Polyglot Python Development Starter (Containers)
 
-As a Polyglot Software Engineer, a significant part of your work will require you to ensure that your code always works consistently no matter where it is run. Java in itself provides some of this but not all. Please follow through these instructions to get set up in Visual Studio code with a sandboxed 'container' environment.
+As a Polyglot Software Engineer, a significant part of your work will require you to ensure that your code always works consistently no matter where it is run. Please follow through these instructions to get set up in Visual Studio code with a sandboxed 'container' environment.
 
 For a background on containers in VSCode - please read **[VS Code Remote - Containers](https://aka.ms/vscode-remote/containers)** extension in a few easy steps. 
 
@@ -39,16 +39,16 @@ Follow these steps to open this sample in a container:
 Once you have this sample opened in a container, you'll be able to work with it like you would locally.
 
 1. **Edit:**
-   - Open `src/main/java/com/mycompany/app/App.java`.
+   - Open `src/App.python`.
    - Try adding some code and check out the language features.
 2. **Terminal:** Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>\`</kbd> and type `uname` and other Linux commands from the terminal window.
 3. **Build, Run, and Debug:**
-   - Open `src/main/java/com/mycompany/app/App.java`.
+   - Open `src/App.python`.
    - Add a breakpoint.
    - Press <kbd>F5</kbd> to launch the app in the container.
    - Once the breakpoint is hit, try hovering over variables, examining locals, and more.
 4. **Run a Test:**
-   - Open `src/test/java/com/mycompany/app/AppTest.java`.
+   - Open `src/test/AppTest.python`.
    - Put a breakpoint in a test.
    - Click the `Debug Test` in the Code Lens above the function and watch it hit the breakpoint.
   
